@@ -11,7 +11,7 @@ import API from "../utils/API";
 import Alert from "../components/Alert/index";
 import axios from "axios";
 
-class ManageItemPage extends Component {
+class ItemManagePage extends Component {
   state = {
     items: [],
     barcode: "",
@@ -314,4 +314,4 @@ class ManageItemPage extends Component {
   }
 }
 
-export default ManageItemPage;
+export default ItemManagePage;
