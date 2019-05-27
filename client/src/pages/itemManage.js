@@ -6,7 +6,7 @@ import {
   FeaturedInput,
   FormBtn,
   DeleteBtn
-} from "../components/ManageItem";
+} from "../components/ManageItem/index";
 import API from "../utils/API";
 import Alert from "../components/Alert/index";
 import axios from "axios";
