@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import Items from "../../pages/Items";
+import Items from "../../pages/items";
 
 function ItemCard(props) {
   return (
