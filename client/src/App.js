@@ -4,13 +4,13 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 // pages
 import ItemManagePage from "./pages/itemManage";
 import AdminHomePage from "./pages/admin-home";
-import UpdateItemPage from "./pages/Update";
+import UpdateItemPage from "./pages/update";
 // components
 import Signup from "./components/sign-up";
 import LoginForm from "./components/login-form";
 import Navbar from "./components/Navbar/index";
 //import Home from './components/home'
-import Items from "./pages/Items";
+import Items from "./pages/items";
 import Event from "./components/EventContainer";
 
 // import ItemsByCategory from "./components/ItemsByCategory/index";
